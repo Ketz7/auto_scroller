@@ -1,5 +1,6 @@
 # auto_scroller
 Auto Scroller to go through lengthy websites.
+
 pip install PyAutoGUI
 
 Speed indicates the number of clicks it should scroll.
